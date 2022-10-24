@@ -1,7 +1,6 @@
 # DepthImageNeuralNetworkMatlab
 Depth prediction by neural network in Matlab/Simulink using python.
 
-Welcome to the DepthImageNeuralNetworkMatlab wiki!
 
 In this repository you'll find the script WebcamNN.m which shows the image of the webcam and the depth predicted by a pretrained neural network. For indoors, use nyu.h5, for outdoors use kitti.h5
 
