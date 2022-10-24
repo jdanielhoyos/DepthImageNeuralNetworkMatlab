@@ -12,3 +12,11 @@ On the other hand, to run the Simulink model, run first Parameters.m , and then 
 
 https://youtu.be/2ymbGlH4G1g
 https://youtu.be/u83mqxUuCLQ
+
+
+
+https://user-images.githubusercontent.com/58446071/197626553-8a030a67-1b12-4484-bcfd-b0400016018d.mp4
+
+
+https://user-images.githubusercontent.com/58446071/197626313-00b485de-fe67-44ea-9535-621091be0a8e.mp4
+
