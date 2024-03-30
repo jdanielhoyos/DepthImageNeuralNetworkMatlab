@@ -9,8 +9,8 @@ Comment line 22 and uncomment line 23 on loadModel.py
 
 On the other hand, to run the Simulink model, run first Parameters.m , and then NueralNetworkDisparity.slx  This simulation also compares the depth estimation from stereo vision, using the semi global matching method. 
 
-https://youtu.be/2ymbGlH4G1g
-https://youtu.be/u83mqxUuCLQ
+https://youtu.be/T0gRhwgD0zo
+
 
 
 
